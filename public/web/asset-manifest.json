@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/web/static/css/main.9904ea85.chunk.css",
+    "main.js": "/web/static/js/main.9ccc3fa7.chunk.js",
+    "main.js.map": "/web/static/js/main.9ccc3fa7.chunk.js.map",
+    "runtime-main.js": "/web/static/js/runtime-main.32bb329f.js",
+    "runtime-main.js.map": "/web/static/js/runtime-main.32bb329f.js.map",
+    "static/css/2.244d011c.chunk.css": "/web/static/css/2.244d011c.chunk.css",
+    "static/js/2.3927c2d6.chunk.js": "/web/static/js/2.3927c2d6.chunk.js",
+    "static/js/2.3927c2d6.chunk.js.map": "/web/static/js/2.3927c2d6.chunk.js.map",
+    "static/js/3.2a89e02c.chunk.js": "/web/static/js/3.2a89e02c.chunk.js",
+    "static/js/3.2a89e02c.chunk.js.map": "/web/static/js/3.2a89e02c.chunk.js.map",
+    "index.html": "/web/index.html",
+    "static/css/2.244d011c.chunk.css.map": "/web/static/css/2.244d011c.chunk.css.map",
+    "static/css/main.9904ea85.chunk.css.map": "/web/static/css/main.9904ea85.chunk.css.map",
+    "static/js/2.3927c2d6.chunk.js.LICENSE.txt": "/web/static/js/2.3927c2d6.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/web/static/media/PingFang.45a64428.woff2",
+    "static/media/coco_close.73869ff0.png": "/web/static/media/coco_close.73869ff0.png",
+    "static/media/iconfont.css": "/web/static/media/iconfont.5c762f8d.ttf",
+    "static/media/index.scss": "/web/static/media/login-bg.5c735a41.png",
+    "static/media/login-head.c1d0c5fd.jpg": "/web/static/media/login-head.c1d0c5fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32bb329f.js",
+    "static/css/2.244d011c.chunk.css",
+    "static/js/2.3927c2d6.chunk.js",
+    "static/css/main.9904ea85.chunk.css",
+    "static/js/main.9ccc3fa7.chunk.js"
+  ]
+}
